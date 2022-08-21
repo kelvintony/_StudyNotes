@@ -3,7 +3,6 @@
 //
 //
 //
-// test 2
 ===> install nodemon as a dependecy and not globally by doing ==> npm install nodemon
 ===> go to google and search 'node gitignore' copy the gitignore code from their Github then create a gitignore file in your
         backend folder and paste all you copied from there.
